@@ -1,0 +1,1 @@
+RewriteRule ^/https://doggyie.github.io/redirect/$ https://youtu.be/dQw4w9WgXcQ?si=EhDBQ4Keugop7gIM [R=301,L]
